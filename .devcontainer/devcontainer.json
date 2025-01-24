@@ -1,8 +1,8 @@
 {
   //Name this cofiguration
-"name": "Codespace for skills!",
+  "name": "Codespace for skills!",
   //Use the base codespace image
-  "image" : "mcr.microsoft.com/vscode/devcontainters/universal:latest",
+  "image" : "mcr.microsoft.com/vscode/devcontainers/universal:latest",
 
   "remoteUser" :"codespace",
   "overrideCommand": false
